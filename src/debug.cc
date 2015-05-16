@@ -62,7 +62,7 @@ void hit_watchpoint( unsigned watchpoint_num, ptx_thread_info *thd, const ptx_in
    g_watchpoint_hits[watchpoint_num]=watchpoint_event(thd,pI);
 }
 
-// git test 2
+// git test 3
 
 /// interactive debugger 
 
