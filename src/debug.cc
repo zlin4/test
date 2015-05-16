@@ -62,6 +62,8 @@ void hit_watchpoint( unsigned watchpoint_num, ptx_thread_info *thd, const ptx_in
    g_watchpoint_hits[watchpoint_num]=watchpoint_event(thd,pI);
 }
 
+// git test
+
 /// interactive debugger 
 
 void gpgpu_sim::gpgpu_debug()
